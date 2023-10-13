@@ -26,6 +26,7 @@ func _on_Ball_body_entered(body):
 		body.hit(self)
 		accelerate = true	
 		$Highlight.modulate.a = 1.0
+		
 
 func _input(event):
 	if not released and event.is_action_pressed("release"):

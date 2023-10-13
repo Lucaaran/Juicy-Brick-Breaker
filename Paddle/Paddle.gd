@@ -27,6 +27,7 @@ func _input(event):
 
 func hit(_ball):
 	$Highlight.modulate.a = 1.0
+	$Sparkles.emitting = true
 
 
 func powerup(payload):
