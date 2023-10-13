@@ -10,7 +10,7 @@ Simple Brick Breaker game
 ## Implementation
 
 Which features you included
-color bricks, particles, highlights, music, different font
+color bricks, particles, highlights, music, different font, face
 
 
 ## References
